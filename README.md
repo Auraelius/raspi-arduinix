@@ -10,7 +10,7 @@ The raspi drives the arduinix using its GPIO pins, via level-shifting circuits, 
 -- TABLE NOT ACCURATE --
 
 Raspi GPIO | Arduinix | function
------------| --------|
+---------- | -------- | --------
 GPIO 02 | D 02 | tube select 0
 GPIO 09 | D 03 | tube select 0
 GPIO 11 | D 04 | tube select 0
